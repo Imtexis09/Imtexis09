@@ -1,31 +1,31 @@
-# ¡Hola! Soy Alexis Texis Pérez 👋 
-### 🚀 Estudiante de Ingeniería en Ciencias de la Computación en la BUAP (Promedio: 9.6/10)
+# Hi there! I'm Alexis Texis Pérez 👋 
+### 🚀 Computer Science Engineering Student at BUAP (GPA: 9.6/10)
 
-Soy un desarrollador enfocado en la resolución de problemas mediante software, combinando bases académicas sólidas con experiencia práctica en desarrollo ágil y Backend. ¡Actualmente buscando integrarme como Practicante de Desarrollo de Software!
+I am a software developer focused on solving complex problems through code, combining a solid academic foundation with hands-on experience in agile development and Backend engineering. Currently seeking opportunities as a Software Development Intern!
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies & Tools
 
-- **Lenguajes:** C++, Java, Python, PHP, JavaScript (ES6+)
+- **Languages:** C++, Java, Python, PHP, JavaScript (ES6+)
 - **Web & Backend:** Node.js, Express, React, Tailwind CSS, HTML5, CSS3
-- **Bases de Datos & Cloud:** SQLite, Docker, Railway, Linux, Git & GitHub
+- **Databases & Cloud:** SQLite, Docker, Railway, Linux, Git & GitHub
 
 ---
 
-### 🏆 Logros Recientes
-- **Participante en Safe Industry Hackathon (Junio 2026):** Co-desarrollé en solo 5 horas *SafeScore QR*, una API REST con Node.js y Express para la automatización de auditorías sanitarias (NOM-251) con despliegue en la nube mediante Railway.
+### 🏆 Recent Achievements
+- **Safe Industry Hackathon Participant (June 2026):** Co-developed *SafeScore QR* in just 5 hours—a REST API built with Node.js and Express to automate sanitary audits (NOM-251), successfully deployed to the cloud via Railway.
 
 ---
 
-### 📁 Proyectos Destacados en mis Repositorios
-- 🤖 **Asistente IA:** Automatización de flujos de trabajo en Python con procesamiento de comandos por lenguaje natural.
-- ⚡ **SafeScore QR:** Backend robusto con Cron Jobs y autenticación JWT.
-- 🎮 **Motor de IA para Tic Tac Toe:** Algoritmo determinista y evaluación de estados en C++.
-- 🥞 **Sistema de Gestión Crepas Calif:** Sistema de gestión Full-Stack (PHP/JS) con control de inventario en tiempo real.
+### 📁 Featured Projects
+- 🤖 **AI Assistant:** A Python-based workflow automation tool featuring natural language command processing.
+- ⚡ **SafeScore QR:** A robust backend service implementing Cron Jobs and JWT authentication.
+- 🎮 **Tic Tac Toe AI Engine:** A deterministic algorithm and state-evaluation system built in C++.
+- 🥞 **Crepas Calif Management System:** A Full-Stack (PHP/JS) management system featuring real-time inventory control.
 
 ---
 
-### 📬 Conéctate conmigo:
-- **LinkedIn:** [linkedin.com/in/alexis-texis-perez](https://linkedin.com/in/alexis-texis-perez)
+### 📬 Connect with me:
+- **LinkedIn:** www.linkedin.com/in/alexis-texis-perez-069439388
 - **Email:** atp09646@gmail.com
